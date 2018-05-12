@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31636
     wikipedia: http://en.wikipedia.org/wiki/William_E._Gates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25878#Commentary-Upon-the-Maya-Tzental-Perez-Codexwith-a-Concluding-Note-Upon-the-Linguistic-Proble_
 gutenberg_issued: '2008-06-22'
 gutenberg_type: Text
 identifiers:
